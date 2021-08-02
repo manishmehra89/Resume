@@ -49,8 +49,11 @@
 		"keywords": ["HTML", "CSS", "Javascript", "C/C++"]
 	}],
 	"interests": [{
-		"name": "Sports",
-		"keywords": ["Cricket"]
-	}],
-	
+			"name": "Sports",
+			"keywords": ["Badminton", "cricket"]
+		},
+		{
+			"name": "Singing"
+		}
+	]
 }
