@@ -1,24 +1,19 @@
 {
 	"basics": {
-		"name": "---Enter Your Name---",
+		"name": "Manish Mehra",
 		"label": "Student",
 		"picture": "---Enter Image URL----",
-		"email": "---Enter Email ID---",
-		"phone": "---Enter Mobile Number---",
-		"website": "---Enter Link of website(if any) ---",
-		"summary": "---Tell Something about yourself ---",
+		"email": "2019kuec2040@iiitkota.ac.in",
+		"phone": "8955806486",
+		"summary": "Electronics and Communication Engineering Student at Indian Institute of Information technology, Kota(India).",
 		"location": {
-			"address": "---",
-			"postalCode": "---",
-			"city": "---",
+			"address": "vpo-chuee,chuwa,degana,nagaur,rajasthan",
+			"postalCode": "341301",
+			"city": "Degana",
 			"countryCode": "India",
-			"region": "---State Name---"
+			"region": "Rajasthan"
 		},
-		"profiles": [{
-				"network": "Twitter",
-				"username": "handle",
-				"url": "https://www.twitter.com/<handle>"
-			},
+		"profiles": [
 			{
 				"network": "Github",
 				"username": "handle",
@@ -26,62 +21,36 @@
 			},
 			{
 				"network": "linkedin",
-				"username": "username",
-				"url": "https://www.linkedin.com/in/<username>/"
+				"username": "manish-mehra-0386b4200",
+				"url": "https://www.linkedin.com/in/manish-mehra-0386b4200/"
 			},
 			{
 				"network": "Instagram",
-				"username": "handle",
-				"url": "https://instagram.com/<handle>"
+				"username": "mehra_the_manish",
+				"url": "https://instagram.com/mehra_the_manish/"
 			}
 		]
 	},
-	"work": [{
-		"company": "---",
-		"position": "----",
-		"website": "----",
-		"startDate": "2020-08-04//Take care about Date Format",
-		"endDate": "Date // ",
-		"summary": "---Tell me something About Org. --- ",
-		"highlights": ["Add Highlights", "Your work details"]
-	}],
-	"volunteer": [{
-		"organization": "---Name Org ---",
-		"position": "---Add ---",
-		"website": "---",
-		"startDate": "2020-01-01 // Note Date Format",
-		"endDate": "---",
-		"summary": "Description...",
-		"highlights": []
-	}],
+
 	"education": [{
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
-		"startDate": "2018-04-08 //Date",
-		"endDate": "----",
-		"gpa": "---Add your CGPA ---",
+		"startDate": "2019-02-08 //Date",
+		"endDate": "2023",
+		"gpa": "5.79(till 4th sem)",
 		"courses": [
-			"Computer Science & Engineering"
+			"Electronics and Communication Engineering"
 		]
 	}],
-	"awards": [{
-		"title": "--Title---",
-		"awarder": "---Receiverd By ---",
-		"date": "2020-08-21//Date"
-	}],
-	"publications": [{
-		"title": "---Enter Title---",
-		"details": "---Enter Details---",
-		"link": "---github/website link to show your work---"
-	}],
+	
 	"skills": [{
-		"level": "Master",
-		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Add more"]
+		"level": "Intermediate",
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++"]
 	}],
 	"interests": [{
 		"name": "Sports",
-		"keywords": ["Chess", "Badminton"]
+		"keywords": ["Cricket"]
 	}],
-	"references": []
+	
 }
