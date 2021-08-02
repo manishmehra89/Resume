@@ -2,7 +2,7 @@
 	"basics": {
 		"name": "Manish Mehra",
 		"label": "Student",
-		"picture": "---Enter Image URL----",
+		"picture": "https://github.com/manishmehra89/Resume/blob/main/manish.jpeg",
 		"email": "2019kuec2040@iiitkota.ac.in",
 		"phone": "8955806486",
 		"summary": "Electronics and Communication Engineering Student at Indian Institute of Information technology, Kota(India).",
@@ -16,8 +16,8 @@
 		"profiles": [
 			{
 				"network": "Github",
-				"username": "handle",
-				"url": "https://www.github.com/<handle>/"
+				"username": "manishmehra89",
+				"url": "https://www.github.com/manishmehra89/"
 			},
 			{
 				"network": "linkedin",
